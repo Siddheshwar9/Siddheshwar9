@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently moving forward in my web dev journey**
 
 - 📫 How to reach me **siddeshwarpandey123@gmail.com**
 
